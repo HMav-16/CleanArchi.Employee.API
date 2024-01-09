@@ -1,0 +1,15 @@
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\bin\Debug\net6.0\CleanArchitectureHR.Application.deps.json
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\bin\Debug\net6.0\CleanArchitectureHR.Application.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\bin\Debug\net6.0\CleanArchitectureHR.Application.pdb
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\bin\Debug\net6.0\CleanArchitecture.HR.Domain.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\bin\Debug\net6.0\CleanArchitecture.HR.Domain.pdb
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\obj\Debug\net6.0\CleanArchitectureHR.Application.csproj.AssemblyReference.cache
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\obj\Debug\net6.0\CleanArchitectureHR.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\obj\Debug\net6.0\CleanArchitectureHR.Application.AssemblyInfoInputs.cache
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\obj\Debug\net6.0\CleanArchitectureHR.Application.AssemblyInfo.cs
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\obj\Debug\net6.0\CleanArchitectureHR.Application.csproj.CoreCompileInputs.cache
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\obj\Debug\net6.0\CleanArchitectureHR.Application.csproj.CopyComplete
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\obj\Debug\net6.0\CleanArchitectureHR.Application.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\obj\Debug\net6.0\refint\CleanArchitectureHR.Application.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\obj\Debug\net6.0\CleanArchitectureHR.Application.pdb
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitectureHR.Application\obj\Debug\net6.0\ref\CleanArchitectureHR.Application.dll

@@ -1,0 +1,17 @@
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\bin\Debug\net6.0\ClearnArchitectureHR.Infrastructure.deps.json
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\bin\Debug\net6.0\ClearnArchitectureHR.Infrastructure.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\bin\Debug\net6.0\ClearnArchitectureHR.Infrastructure.pdb
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\bin\Debug\net6.0\CleanArchitecture.HR.Domain.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\bin\Debug\net6.0\CleanArchitectureHR.Application.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\bin\Debug\net6.0\CleanArchitectureHR.Application.pdb
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\bin\Debug\net6.0\CleanArchitecture.HR.Domain.pdb
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\obj\Debug\net6.0\ClearnArchitectureHR.Infrastructure.csproj.AssemblyReference.cache
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\obj\Debug\net6.0\ClearnArchitectureHR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\obj\Debug\net6.0\ClearnArchitectureHR.Infrastructure.AssemblyInfoInputs.cache
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\obj\Debug\net6.0\ClearnArchitectureHR.Infrastructure.AssemblyInfo.cs
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\obj\Debug\net6.0\ClearnArchitectureHR.Infrastructure.csproj.CoreCompileInputs.cache
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\obj\Debug\net6.0\ClearnArchitectureHR.Infrastructure.csproj.CopyComplete
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\obj\Debug\net6.0\ClearnArchitectureHR.Infrastructure.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\obj\Debug\net6.0\refint\ClearnArchitectureHR.Infrastructure.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\obj\Debug\net6.0\ClearnArchitectureHR.Infrastructure.pdb
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\ClearnArchitectureHR.Infrastructure\obj\Debug\net6.0\ref\ClearnArchitectureHR.Infrastructure.dll

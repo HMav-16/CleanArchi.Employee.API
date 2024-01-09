@@ -1,0 +1,12 @@
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\bin\Debug\net6.0\CleanArchitecture.HR.Domain.deps.json
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\bin\Debug\net6.0\CleanArchitecture.HR.Domain.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\bin\Debug\net6.0\CleanArchitecture.HR.Domain.pdb
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\obj\Debug\net6.0\CleanArchitecture.HR.Domain.csproj.AssemblyReference.cache
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\obj\Debug\net6.0\CleanArchitecture.HR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\obj\Debug\net6.0\CleanArchitecture.HR.Domain.AssemblyInfoInputs.cache
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\obj\Debug\net6.0\CleanArchitecture.HR.Domain.AssemblyInfo.cs
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\obj\Debug\net6.0\CleanArchitecture.HR.Domain.csproj.CoreCompileInputs.cache
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\obj\Debug\net6.0\CleanArchitecture.HR.Domain.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\obj\Debug\net6.0\refint\CleanArchitecture.HR.Domain.dll
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\obj\Debug\net6.0\CleanArchitecture.HR.Domain.pdb
+D:\HUMAN-RESSOURCE-PROJECT\CleanArch.HR.API\CleanArchitecture.HR.Domain\obj\Debug\net6.0\ref\CleanArchitecture.HR.Domain.dll

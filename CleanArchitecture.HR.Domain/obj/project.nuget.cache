@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LHJxo1+omJWAbINdsnrR2S19+46qladZ8vpaH9nMY1WqSMQDIDTjUsu/fjuiPi0idSCht0U5Av5A44Z/BaKl/g==",
+  "success": true,
+  "projectFilePath": "D:\\HUMAN-RESSOURCE-PROJECT\\CleanArch.HR.API\\CleanArchitecture.HR.Domain\\CleanArchitecture.HR.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heritier.mavinga\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\heritier.mavinga\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\heritier.mavinga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
